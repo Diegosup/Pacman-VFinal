@@ -1,0 +1,39 @@
+D:\Diego\Proyectos\ROT\Pacman\bin\Debug\Pacman.exe.config
+D:\Diego\Proyectos\ROT\Pacman\bin\Debug\Pacman.exe
+D:\Diego\Proyectos\ROT\Pacman\bin\Debug\Pacman.pdb
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.Form1.resources
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.Resource1.resources
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.Resource2.resources
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.exe
+D:\Diego\Proyectos\ROT\Pacman\obj\Debug\Pacman.pdb
+D:\C#\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe.config
+D:\C#\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe
+D:\C#\Pacman\Pacman\Pacman\bin\Debug\Pacman.pdb
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.Resource1.resources
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.Resource2.resources
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.exe
+D:\C#\Pacman\Pacman\Pacman\obj\Debug\Pacman.pdb
+D:\C#\Pacman vfinal\bin\Debug\Pacman.exe.config
+D:\C#\Pacman vfinal\bin\Debug\Pacman.exe
+D:\C#\Pacman vfinal\bin\Debug\Pacman.pdb
+D:\C#\Pacman vfinal\obj\Debug\Pacman.csproj.AssemblyReference.cache
+D:\C#\Pacman vfinal\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pacman vfinal\obj\Debug\Pacman.Form1.resources
+D:\C#\Pacman vfinal\obj\Debug\Pacman.Properties.Resources.resources
+D:\C#\Pacman vfinal\obj\Debug\Pacman.Resource1.resources
+D:\C#\Pacman vfinal\obj\Debug\Pacman.Resource2.resources
+D:\C#\Pacman vfinal\obj\Debug\Pacman.csproj.GenerateResource.cache
+D:\C#\Pacman vfinal\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+D:\C#\Pacman vfinal\obj\Debug\Pacman.exe
+D:\C#\Pacman vfinal\obj\Debug\Pacman.pdb
